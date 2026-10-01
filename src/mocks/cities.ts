@@ -1,0 +1,17 @@
+export const CITIES: string[] = [
+  'İstanbul',
+  'Ankara',
+  'İzmir',
+  'Bursa',
+  'Antalya',
+  'Adana',
+  'Konya',
+  'Gaziantep',
+  'Kayseri',
+  'Trabzon',
+  'Eskişehir',
+  'Samsun',
+  'Diyarbakır',
+  'Erzurum',
+  'Van',
+]

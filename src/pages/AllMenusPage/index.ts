@@ -1,0 +1,1 @@
+export { AllMenusPage } from './AllMenusPage'

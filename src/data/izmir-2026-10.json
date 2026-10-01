@@ -1,0 +1,1093 @@
+{
+    "city":  "İzmir",
+    "year":  2026,
+    "month":  10,
+    "source":  "kykyemek.com",
+    "days":  {
+                 "1":  {
+                           "breakfast":  {
+                                             "items":  [
+                                                           {
+                                                               "name":  "Haşlanmış Yumurta",
+                                                               "amount":  "65g"
+                                                           },
+                                                           {
+                                                               "name":  "Patates Kavurması",
+                                                               "amount":  "150g"
+                                                           },
+                                                           {
+                                                               "name":  "Karışık Pizza",
+                                                               "amount":  "150g"
+                                                           },
+                                                           {
+                                                               "name":  "Krem Peynir",
+                                                               "amount":  "20g"
+                                                           },
+                                                           {
+                                                               "name":  "Siyah/Yeşil Zeytin",
+                                                               "amount":  "30g"
+                                                           },
+                                                           {
+                                                               "name":  "Su",
+                                                               "amount":  "500ml"
+                                                           },
+                                                           {
+                                                               "name":  "Ekmek",
+                                                               "amount":  "Çeyrek"
+                                                           }
+                                                       ],
+                                             "calories":  600
+                                         }
+                       },
+                 "2":  {
+                           "breakfast":  {
+                                             "items":  [
+                                                           {
+                                                               "name":  "Menemen",
+                                                               "amount":  "150g"
+                                                           },
+                                                           {
+                                                               "name":  "Patates Kızartması",
+                                                               "amount":  "150g"
+                                                           },
+                                                           {
+                                                               "name":  "Çikolatalı Milföy Börek",
+                                                               "amount":  "60g"
+                                                           },
+                                                           {
+                                                               "name":  "Beyaz Peynir",
+                                                               "amount":  "40g"
+                                                           },
+                                                           {
+                                                               "name":  "Siyah/Yeşil Zeytin",
+                                                               "amount":  "30g"
+                                                           },
+                                                           {
+                                                               "name":  "Su",
+                                                               "amount":  "500ml"
+                                                           },
+                                                           {
+                                                               "name":  "Ekmek",
+                                                               "amount":  "Çeyrek"
+                                                           }
+                                                       ],
+                                             "calories":  840
+                                         }
+                       },
+                 "3":  {
+                           "breakfast":  {
+                                             "items":  [
+                                                           {
+                                                               "name":  "Haşlanmış Yumurta",
+                                                               "amount":  ""
+                                                           },
+                                                           {
+                                                               "name":  "Karışık Kızartma",
+                                                               "amount":  ""
+                                                           },
+                                                           {
+                                                               "name":  "Simit",
+                                                               "amount":  ""
+                                                           },
+                                                           {
+                                                               "name":  "Kaşar Peyniri",
+                                                               "amount":  ""
+                                                           },
+                                                           {
+                                                               "name":  "Siyah/Yeşil Zeytin",
+                                                               "amount":  ""
+                                                           },
+                                                           {
+                                                               "name":  "Su",
+                                                               "amount":  "500ml"
+                                                           },
+                                                           {
+                                                               "name":  "Ekmek",
+                                                               "amount":  "Çeyrek"
+                                                           }
+                                                       ],
+                                             "calories":  0
+                                         }
+                       },
+                 "4":  {
+                           "breakfast":  {
+                                             "items":  [
+                                                           {
+                                                               "name":  "Sade Omlet",
+                                                               "amount":  "1 Adet"
+                                                           },
+                                                           {
+                                                               "name":  "Salçalı Sosis",
+                                                               "amount":  "100g"
+                                                           },
+                                                           {
+                                                               "name":  "Peynirli/Ispanaklı Börek",
+                                                               "amount":  "120g"
+                                                           },
+                                                           {
+                                                               "name":  "Beyaz Peynir",
+                                                               "amount":  "40g"
+                                                           },
+                                                           {
+                                                               "name":  "Siyah/Yeşil Zeytin",
+                                                               "amount":  "30g"
+                                                           },
+                                                           {
+                                                               "name":  "Su",
+                                                               "amount":  "500ml"
+                                                           },
+                                                           {
+                                                               "name":  "Ekmek",
+                                                               "amount":  "Çeyrek"
+                                                           }
+                                                       ],
+                                             "calories":  879
+                                         }
+                       },
+                 "5":  {
+                           "breakfast":  {
+                                             "items":  [
+                                                           {
+                                                               "name":  "Haşlanmış Yumurta",
+                                                               "amount":  "65g"
+                                                           },
+                                                           {
+                                                               "name":  "Patates Kızartması",
+                                                               "amount":  "150g"
+                                                           },
+                                                           {
+                                                               "name":  "Zeytinli/Peynirli Açma",
+                                                               "amount":  "1 Adet"
+                                                           },
+                                                           {
+                                                               "name":  "Kaşar Peyniri",
+                                                               "amount":  "40g"
+                                                           },
+                                                           {
+                                                               "name":  "Siyah/Yeşil Zeytin",
+                                                               "amount":  "30g"
+                                                           },
+                                                           {
+                                                               "name":  "Su",
+                                                               "amount":  "500ml"
+                                                           },
+                                                           {
+                                                               "name":  "Ekmek",
+                                                               "amount":  "Çeyrek"
+                                                           }
+                                                       ],
+                                             "calories":  961
+                                         }
+                       },
+                 "6":  {
+                           "breakfast":  {
+                                             "items":  [
+                                                           {
+                                                               "name":  "Kaşarlı Omlet",
+                                                               "amount":  "1 Adet"
+                                                           },
+                                                           {
+                                                               "name":  "Patates Salatası",
+                                                               "amount":  "150g"
+                                                           },
+                                                           {
+                                                               "name":  "Dere Otlu Poğaça",
+                                                               "amount":  "1 Adet"
+                                                           },
+                                                           {
+                                                               "name":  "Labne Peynir",
+                                                               "amount":  "20g"
+                                                           },
+                                                           {
+                                                               "name":  "Siyah/Yeşil Zeytin",
+                                                               "amount":  "30g"
+                                                           },
+                                                           {
+                                                               "name":  "Su",
+                                                               "amount":  "500ml"
+                                                           },
+                                                           {
+                                                               "name":  "Ekmek",
+                                                               "amount":  "Çeyrek"
+                                                           }
+                                                       ],
+                                             "calories":  869
+                                         }
+                       },
+                 "7":  {
+                           "breakfast":  {
+                                             "items":  [
+                                                           {
+                                                               "name":  "Haşlanmış Yumurta",
+                                                               "amount":  "65g"
+                                                           },
+                                                           {
+                                                               "name":  "Sosis Kızartması",
+                                                               "amount":  "100g"
+                                                           },
+                                                           {
+                                                               "name":  "Peynirli/Ispanaklı Börek",
+                                                               "amount":  "120g"
+                                                           },
+                                                           {
+                                                               "name":  "Beyaz Peynir",
+                                                               "amount":  "40g"
+                                                           },
+                                                           {
+                                                               "name":  "Siyah/Yeşil Zeytin",
+                                                               "amount":  "30g"
+                                                           },
+                                                           {
+                                                               "name":  "Su",
+                                                               "amount":  "500ml"
+                                                           },
+                                                           {
+                                                               "name":  "Ekmek",
+                                                               "amount":  "Çeyrek"
+                                                           }
+                                                       ],
+                                             "calories":  884
+                                         }
+                       },
+                 "8":  {
+                           "breakfast":  {
+                                             "items":  [
+                                                           {
+                                                               "name":  "Sucuklu Yumurta",
+                                                               "amount":  "85g"
+                                                           },
+                                                           {
+                                                               "name":  "Kalem Börek",
+                                                               "amount":  "120g"
+                                                           },
+                                                           {
+                                                               "name":  "Kakaolu Kek",
+                                                               "amount":  "50g"
+                                                           },
+                                                           {
+                                                               "name":  "Yöresel Peynir",
+                                                               "amount":  "40g"
+                                                           },
+                                                           {
+                                                               "name":  "Siyah/Yeşil Zeytin",
+                                                               "amount":  "30g"
+                                                           },
+                                                           {
+                                                               "name":  "Su",
+                                                               "amount":  "500ml"
+                                                           },
+                                                           {
+                                                               "name":  "Ekmek",
+                                                               "amount":  "Çeyrek"
+                                                           }
+                                                       ],
+                                             "calories":  944
+                                         }
+                       },
+                 "9":  {
+                           "breakfast":  {
+                                             "items":  [
+                                                           {
+                                                               "name":  "Haşlanmış Yumurta",
+                                                               "amount":  ""
+                                                           },
+                                                           {
+                                                               "name":  "Patates Kızartması",
+                                                               "amount":  ""
+                                                           },
+                                                           {
+                                                               "name":  "Üzümlü Kek+Bal+Tereyağ",
+                                                               "amount":  ""
+                                                           },
+                                                           {
+                                                               "name":  "Beyaz Peynir",
+                                                               "amount":  ""
+                                                           },
+                                                           {
+                                                               "name":  "Siyah/Yeşil Zeytin",
+                                                               "amount":  ""
+                                                           },
+                                                           {
+                                                               "name":  "Su",
+                                                               "amount":  "500ml"
+                                                           },
+                                                           {
+                                                               "name":  "Ekmek",
+                                                               "amount":  "Çeyrek"
+                                                           }
+                                                       ],
+                                             "calories":  0
+                                         }
+                       },
+                 "10":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Peynirli Omlet",
+                                                                "amount":  "90g"
+                                                            },
+                                                            {
+                                                                "name":  "Patates Kavurması",
+                                                                "amount":  "150g"
+                                                            },
+                                                            {
+                                                                "name":  "Sosisli Milföy Böreği",
+                                                                "amount":  "60g"
+                                                            },
+                                                            {
+                                                                "name":  "Kaşar Peyniri",
+                                                                "amount":  "40g"
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  "30g"
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  714
+                                          }
+                        },
+                 "11":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Haşlanmış Yumurta",
+                                                                "amount":  "65g"
+                                                            },
+                                                            {
+                                                                "name":  "Patates Kroket",
+                                                                "amount":  "60g"
+                                                            },
+                                                            {
+                                                                "name":  "Karışık Pizza",
+                                                                "amount":  "150g"
+                                                            },
+                                                            {
+                                                                "name":  "Beyaz Peynir",
+                                                                "amount":  "40g"
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  "30g"
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  654
+                                          }
+                        },
+                 "12":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Sade Omlet",
+                                                                "amount":  "1 Adet"
+                                                            },
+                                                            {
+                                                                "name":  "Patates Kızartması",
+                                                                "amount":  "150g"
+                                                            },
+                                                            {
+                                                                "name":  "Çikolatalı Milföy Börek",
+                                                                "amount":  "60g"
+                                                            },
+                                                            {
+                                                                "name":  "Kaşar Peyniri",
+                                                                "amount":  "40g"
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  "30g"
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  845
+                                          }
+                        },
+                 "13":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Haşlanmış Yumurta",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Salçalı Sosis",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Sade Poğaça",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Yöresel Peynir",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  0
+                                          }
+                        },
+                 "14":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Kaşarlı Omlet",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Karışık Kızartma",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Zeytinli/Peynirli Açma",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Beyaz Peynir",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  0
+                                          }
+                        },
+                 "15":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Haşlanmış Yumurta",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Patates Salatası",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Pişi+Sürülebilir Çikolata",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Kaşar Peyniri",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  0
+                                          }
+                        },
+                 "16":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Menemen",
+                                                                "amount":  "150g"
+                                                            },
+                                                            {
+                                                                "name":  "Patates Kızartması",
+                                                                "amount":  "150g"
+                                                            },
+                                                            {
+                                                                "name":  "Simit",
+                                                                "amount":  "1 Adet"
+                                                            },
+                                                            {
+                                                                "name":  "Krem Peynir",
+                                                                "amount":  "20g"
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  "30g"
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  791
+                                          }
+                        },
+                 "17":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Haşlanmış Yumurta",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Boyoz",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Peynirli/Ispanaklı Börek",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Yöresel Peynir",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  0
+                                          }
+                        },
+                 "18":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Sucuklu Omlet",
+                                                                "amount":  "90g"
+                                                            },
+                                                            {
+                                                                "name":  "Patates Kavurması",
+                                                                "amount":  "150g"
+                                                            },
+                                                            {
+                                                                "name":  "Dere Otlu Poğaça",
+                                                                "amount":  "1 Adet"
+                                                            },
+                                                            {
+                                                                "name":  "Beyaz Peynir",
+                                                                "amount":  "40g"
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  "30g"
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  781
+                                          }
+                        },
+                 "19":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Haşlanmış Yumurta",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Sosis Kızartması",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Pişi+Reçel",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Kaşar Peyniri",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  0
+                                          }
+                        },
+                 "20":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Peynirli Omlet",
+                                                                "amount":  "90g"
+                                                            },
+                                                            {
+                                                                "name":  "Patates Kroket",
+                                                                "amount":  "60g"
+                                                            },
+                                                            {
+                                                                "name":  "Karışık Pizza",
+                                                                "amount":  "150g"
+                                                            },
+                                                            {
+                                                                "name":  "Beyaz Peynir",
+                                                                "amount":  "40g"
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  "30g"
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  788
+                                          }
+                        },
+                 "21":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Haşlanmış Yumurta",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Patates Kızartması",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Sade Poğaça",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Labne Peynir",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  0
+                                          }
+                        },
+                 "22":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Sade Omlet",
+                                                                "amount":  "1 Adet"
+                                                            },
+                                                            {
+                                                                "name":  "Patates Salatası",
+                                                                "amount":  "150g"
+                                                            },
+                                                            {
+                                                                "name":  "Çikolatalı Milföy Börek",
+                                                                "amount":  "60g"
+                                                            },
+                                                            {
+                                                                "name":  "Kaşar Peyniri",
+                                                                "amount":  "40g"
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  "30g"
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  786
+                                          }
+                        },
+                 "23":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Haşlanmış Yumurta",
+                                                                "amount":  "65g"
+                                                            },
+                                                            {
+                                                                "name":  "Patates Kızartması",
+                                                                "amount":  "150g"
+                                                            },
+                                                            {
+                                                                "name":  "Peynirli/Ispanaklı Börek",
+                                                                "amount":  "120g"
+                                                            },
+                                                            {
+                                                                "name":  "Beyaz Peynir",
+                                                                "amount":  "40g"
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  "30g"
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  934
+                                          }
+                        },
+                 "24":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Kaşarlı Omlet",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Karışık Kızartma",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Yumurtalı Ekmek",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Yöresel Peynir",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  0
+                                          }
+                        },
+                 "25":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Haşlanmış Yumurta",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Elmalı Tarçınlı Tart/Kurabiye",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Simit",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Beyaz Peynir",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  0
+                                          }
+                        },
+                 "26":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Mantarlı Omlet",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Patates Salatası",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Dere Otlu Poğaça",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Krem Peynir",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  0
+                                          }
+                        },
+                 "27":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Haşlanmış Yumurta",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Patates Kızartması",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Simit+Bal+Tereyağ",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Beyaz Peynir",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  0
+                                          }
+                        },
+                 "28":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Sucuklu Omlet",
+                                                                "amount":  "90g"
+                                                            },
+                                                            {
+                                                                "name":  "Patates Kavurması",
+                                                                "amount":  "150g"
+                                                            },
+                                                            {
+                                                                "name":  "Zeytinli/Peynirli Açma",
+                                                                "amount":  "1 Adet"
+                                                            },
+                                                            {
+                                                                "name":  "Kaşar Peyniri",
+                                                                "amount":  "40g"
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  "30g"
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  866
+                                          }
+                        },
+                 "29":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Menemen",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Sosis Kızartma/Salçalı Sosis",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Mozaik Kek",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Beyaz Peynir",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  ""
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  0
+                                          }
+                        },
+                 "30":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Sade Omlet",
+                                                                "amount":  "1 Adet"
+                                                            },
+                                                            {
+                                                                "name":  "Patates Kroket",
+                                                                "amount":  "60g"
+                                                            },
+                                                            {
+                                                                "name":  "Simit",
+                                                                "amount":  "1 Adet"
+                                                            },
+                                                            {
+                                                                "name":  "Yöresel Peynir",
+                                                                "amount":  "40g"
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  "30g"
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  670
+                                          }
+                        },
+                 "31":  {
+                            "breakfast":  {
+                                              "items":  [
+                                                            {
+                                                                "name":  "Haşlanmış Yumurta",
+                                                                "amount":  "65g"
+                                                            },
+                                                            {
+                                                                "name":  "Salçalı Sosis",
+                                                                "amount":  "100g"
+                                                            },
+                                                            {
+                                                                "name":  "Peynirli/Ispanaklı Börek",
+                                                                "amount":  "120g"
+                                                            },
+                                                            {
+                                                                "name":  "Kaşar Peyniri",
+                                                                "amount":  "40g"
+                                                            },
+                                                            {
+                                                                "name":  "Siyah/Yeşil Zeytin",
+                                                                "amount":  "30g"
+                                                            },
+                                                            {
+                                                                "name":  "Su",
+                                                                "amount":  "500ml"
+                                                            },
+                                                            {
+                                                                "name":  "Ekmek",
+                                                                "amount":  "Çeyrek"
+                                                            }
+                                                        ],
+                                              "calories":  850
+                                          }
+                        }
+             }
+}
