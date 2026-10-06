@@ -1,46 +1,18 @@
 # KYK Tabağı
 
-KYK yurtlarında kalan öğrenciler için şehir bazlı günlük ve aylık yemek menüsü takip uygulaması.
+KYK yurdunda bugün ne yemek var? Şehrini seç, günün ve ayın menüsüne bak.
 
-## Kurulum
+Not: Menüler şimdilik örnek veri, gerçek KYK menüsü değil.
+
+## Çalıştırma
 
 ```bash
 npm install
-```
-
-## Geliştirme
-
-```bash
 npm run dev
 ```
 
-Tarayıcıda `http://localhost:5173` adresini açın.
+Sonra `http://localhost:5173` adresini aç.
 
-## Build
+## Kullanılanlar
 
-```bash
-npm run build
-```
-
-## Teknoloji Yığını
-
-- React 18 + TypeScript (strict mode)
-- Vite
-- React Router v6
-- Tailwind CSS v3
-- Zustand
-- lucide-react
-- date-fns
-- clsx
-
-## Sayfalar
-
-| Yol | Sayfa |
-|---|---|
-| `/` | Tüm Menüler |
-| `/gunun-menusu` | Günün Menüsü |
-| `/hakkinda` | Hakkında |
-
-## Not
-
-Bu uygulama demo amaçlıdır; gösterilen menüler gerçek KYK verileri değil, örnek mock verilerdir.
+React, TypeScript, Vite, Tailwind, Zustand
